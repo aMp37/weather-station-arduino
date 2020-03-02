@@ -1,0 +1,9 @@
+name=GesturesHC
+version=0.0.1
+author=Adam Puchala
+maintainer=Adam Puchala
+sentence=Use HC-SR04 to control GUI with gestures
+paragraph=
+category=GUI
+url=http://playground.arduino.cc/code/time
+architectures=*
